@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dog_applications>
+<application>
+<type ID='dog'>
+<location>e5dog.php</location>
+</type>
+</application>
+<application>
+<type ID='selectbox'>
+<location>e4get_breeds.php</location>
+</type>
+</application>
+<application>
+<type ID='breeds'>
+<location>ebreeds.xml</location>
+</type>
+</application>
+<application>
+<type ID='datastorage'>
+<location>e1dog_data.xml</location>
+</type>
+</application>
+<application>
+<type ID='dogdata'>
+<location>e5dog_data.php</location>
+</type>
+</application>
+<application>
+<type ID='UIDPASS'>
+<location>uidpass.xml</location>
+</type>
+</application>
+</dog_applications> 

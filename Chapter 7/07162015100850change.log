@@ -1,0 +1,3 @@
+07162015100850 | Insert | a:1:{i:0;a:4:{s:8:"dog_name";s:7:"tester1";s:10:"dog_weight";s:2:"19";s:9:"dog_color";s:5:"Green";s:9:"dog_breed";s:3:"Lab";}}
+07162015100850 | Update | a:2:{i:0;a:4:{s:8:"dog_name";s:7:"tester1";s:10:"dog_weight";s:2:"19";s:9:"dog_color";s:5:"Green";s:9:"dog_breed";s:3:"Lab";}i:1;a:4:{s:8:"dog_name";s:7:"tester2";s:10:"dog_weight";s:2:"19";s:9:"dog_color";s:5:"Green";s:9:"dog_breed";s:3:"Lab";}}
+07162015100850 | Delete | 1

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+<user>
+<userid>Poppoppop</userid>
+<password>$2y$10$8xzP2XCGyEVKSuTOB7enjua5lZybhkkqXj6kOSFaEKyE3A22Am90q</password>
+<datestamp>2020-09-05</datestamp>
+<attempts>18</attempts>
+<lastattempt>08062020042256</lastattempt>
+<validattempt>08062020042443</validattempt>
+</user>
+<user>
+<userid>Fredfred</userid>
+<password>$2y$10$.MC43rkbLfSCEJzH8OJDw.5EboVYvTmy068eE9iEI0myvxAnQGs5i</password>
+<datestamp>2020-10-15</datestamp>
+<attempts>0</attempts>
+<lastattempt>09172020080436</lastattempt>
+<validattempt>09172020080454</validattempt>
+</user>
+</users>

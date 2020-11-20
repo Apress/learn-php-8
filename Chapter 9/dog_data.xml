@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dogs>
+<dog>
+<dog_name>SallyBee</dog_name>
+<dog_weight>19</dog_weight>
+<dog_color>Yellow</dog_color>
+<dog_breed>Akita</dog_breed>
+</dog>
+<dog>
+<dog_name>Pete</dog_name>
+<dog_weight>24</dog_weight>
+<dog_color>Black</dog_color>
+<dog_breed>Basset Hound</dog_breed>
+</dog>
+</dogs>

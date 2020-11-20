@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dogs>
+<dog>
+<dog_name>tester1</dog_name>
+<dog_weight>19</dog_weight>
+<dog_color>Green</dog_color>
+<dog_breed>Lab</dog_breed>
+</dog>
+<dog>
+<dog_name>tester2</dog_name>
+<dog_weight>19</dog_weight>
+<dog_color>Green</dog_color>
+<dog_breed>Lab</dog_breed>
+</dog>
+</dogs>
